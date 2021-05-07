@@ -1,0 +1,3 @@
+[submodule "RumantschCorpora"]
+	path = RumantschCorpora
+	url = https://github.com/ZurichNLP/RumantschCorpora.git
